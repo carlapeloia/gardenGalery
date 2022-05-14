@@ -1,7 +1,7 @@
 # Garden Galery
 Projeto simples, desenvolvido com HTML e CSS, inspirado no projeto de Matheus Battisti (Galeria de Snikers), em um dos cursos de CSS.
 
-°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°![gardenGalery](https://github.com/carlapeloia/gardenGalery/blob/c3951ad8468efb2f3bc72b47b7f9d6190efcf1a1/gardenGalery.PNG)°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+![gardenGalery](https://github.com/carlapeloia/gardenGalery/blob/c3951ad8468efb2f3bc72b47b7f9d6190efcf1a1/gardenGalery.PNG)
 
 
 ## Projeto desenvolvido com
